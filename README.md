@@ -3,10 +3,8 @@
 
 ## 🌐 <a href="www.moataz.live">My personal portfolio</a>
 
-##About me
--Very fluent in English
--Passion for hand & digital art
--I Play Piano
--Love Film Noir
--Writing software since 9th Grade
-
+• Very fluent in English
+• Passion for hand & digital art
+• I Play Piano
+• Love Film Noir
+• Writing software since 9th Grade
