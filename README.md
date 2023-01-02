@@ -11,3 +11,4 @@ ___
 * I Play Piano
 * Love Film Noir
 * Writing software since 9th Grade
+* I love Swans 🦢
