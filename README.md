@@ -1,10 +1,13 @@
-### Hello and welcome 👋
-### I am Moataz and I am pleased to meet you!
+Hello and welcome 👋
 
-#<a href="www.moataz.live">🌐 My personal portfolio</a>
+I am Moataz and I am pleased to meet you!
 
-• Very fluent in English
-• Passion for hand & digital art
-• I Play Piano
-• Love Film Noir
-• Writing software since 9th Grade
+<a href="www.moataz.live">🌐 My personal portfolio</a>
+
+___
+**🦢 About me**
+* Very fluent in English
+* Passion for hand & digital art
+* I Play Piano
+* Love Film Noir
+* Writing software since 9th Grade
