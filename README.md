@@ -2,7 +2,7 @@ Hello and welcome 👋
 
 I am Moataz and I am pleased to meet you!
 
-<a href="www.moataz.live">🌐 My personal portfolio</a>
+<a href="https://www.moataz.live">🌐 My personal portfolio</a>
 
 ___
 **🦢 About me**
